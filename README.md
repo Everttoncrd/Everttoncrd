@@ -1,7 +1,7 @@
 ### Olá! Eu sou Evertton Cardoso
 
-- 🔭 Sou estudante de front-end
-- 🌱 Estou estudando Javascript
+- 🔭 Graduado em Análise e Desenvolvimento de Sistemas
+- 🌱 mergulhando no universo do desenvolvimento web. Aprendendo e construindo com JavaScript, HTML5, CSS3 e Git.
 
 <div>
   <a href="https://github.com/Everttoncrd">
